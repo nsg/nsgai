@@ -40,3 +40,21 @@ ai/ai.lua (parts of the module loading logic)
 ai/spothandler.lua
 ai/preload/
 ```
+
+## Try the game?
+
+I recommend to use [SpringLobby](http://springlobby.info) to download both Spring, mods and maps. I use it both for single and multiplayer games.
+
+### Windows
+
+Just install the installer from the webpage
+
+### Linux Ubuntu/Debian or similar
+
+Easiest is to search for `springlobby-nsg` in Software or just type `sudo snap install springlobby-nsg` in a terminal.
+
+### Other Linux
+
+Install [snap](https://snapcraft.io/docs/core/install) and follow the instructions above (some distributions need a reboot).
+
+or, just follow the instructions from the web page. But be careful not to get a old lobby and/or spring because the versions in the official repositories may be old.
